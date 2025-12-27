@@ -1,17 +1,17 @@
 {
   "height": 11,
   "legend": {
-    "!": "313131ff",
-    "#": "4183cdff",
-    "$": "525252ff",
-    "%": "526a73ff",
-    "&": "52b4ffff",
-    "'": "73737bff",
-    "(": "8b8b94ff",
-    ")": "8b94c5ff",
-    "*": "acb4cdff",
-    "+": "eeeeeeff",
-    ",": "ffffffff"
+    "!": "313131",
+    "#": "4183cd",
+    "$": "525252",
+    "%": "526a73",
+    "&": "52b4ff",
+    "'": "73737b",
+    "(": "8b8b94",
+    ")": "8b94c5",
+    "*": "acb4cd",
+    "+": "eeeeee",
+    ",": "ffffff"
   },
   "name": "pokemon-sprite-I-053-alolan-persian",
   "pixels": [

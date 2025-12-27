@@ -1,15 +1,15 @@
 {
   "height": 21,
   "legend": {
-    "!": "333333ff",
-    "#": "99ccffff",
-    "$": "cc2900ff",
-    "%": "f2f2f2ff",
-    "&": "ff0000ff",
-    "'": "ff3300ff",
-    "(": "ff6600ff",
-    ")": "ff8d8dff",
-    "*": "ffc600ff"
+    "!": "333333",
+    "#": "99ccff",
+    "$": "cc2900",
+    "%": "f2f2f2",
+    "&": "ff0000",
+    "'": "ff3300",
+    "(": "ff6600",
+    ")": "ff8d8d",
+    "*": "ffc600"
   },
   "name": "dragon-ball-android-19-energy-slash",
   "pixels": [

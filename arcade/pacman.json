@@ -1,13 +1,13 @@
 {
   "height": 14,
   "legend": {
-    "!": "0a00ffff",
-    "#": "24d6ffff",
-    "$": "d6d600ff",
-    "%": "fafaecff",
-    "&": "fd101bff",
-    "'": "fd8600ff",
-    "(": "fe87ffff"
+    "!": "0a00ff",
+    "#": "24d6ff",
+    "$": "d6d600",
+    "%": "fafaec",
+    "&": "fd101b",
+    "'": "fd8600",
+    "(": "fe87ff"
   },
   "name": "arcade-pacman",
   "pixels": [

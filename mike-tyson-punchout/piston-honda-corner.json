@@ -1,11 +1,11 @@
 {
   "height": 30,
   "legend": {
-    "!": "000000ff",
-    "#": "d82800ff",
-    "$": "fc9838ff",
-    "%": "fcd8a8ff",
-    "&": "fcfcfcff"
+    "!": "000000",
+    "#": "d82800",
+    "$": "fc9838",
+    "%": "fcd8a8",
+    "&": "fcfcfc"
   },
   "name": "mike-tyson-punchout-piston-honda-corner",
   "pixels": [

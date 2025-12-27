@@ -1,18 +1,18 @@
 {
   "height": 17,
   "legend": {
-    "!": "000000ff",
-    "#": "5a348bff",
-    "$": "6c5a34ff",
-    "%": "a5936fff",
-    "&": "b464ceff",
-    "'": "d695f0ff",
-    "(": "e8ce95ff",
-    ")": "f0deafff",
-    "*": "f7c6ffff",
-    "+": "ffdeffff",
-    ",": "fff0bcff",
-    "-": "ffffffff"
+    "!": "000000",
+    "#": "5a348b",
+    "$": "6c5a34",
+    "%": "a5936f",
+    "&": "b464ce",
+    "'": "d695f0",
+    "(": "e8ce95",
+    ")": "f0deaf",
+    "*": "f7c6ff",
+    "+": "ffdeff",
+    ",": "fff0bc",
+    "-": "ffffff"
   },
   "name": "pokemon-leafgreen-III-363-spheal-shiny",
   "pixels": [

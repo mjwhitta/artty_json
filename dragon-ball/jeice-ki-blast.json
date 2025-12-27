@@ -1,12 +1,12 @@
 {
   "height": 20,
   "legend": {
-    "!": "333333ff",
-    "#": "a57f47ff",
-    "$": "cc2900ff",
-    "%": "f2f2f2ff",
-    "&": "ff3300ff",
-    "'": "ff8d8dff"
+    "!": "333333",
+    "#": "a57f47",
+    "$": "cc2900",
+    "%": "f2f2f2",
+    "&": "ff3300",
+    "'": "ff8d8d"
   },
   "name": "dragon-ball-jeice-ki-blast",
   "pixels": [

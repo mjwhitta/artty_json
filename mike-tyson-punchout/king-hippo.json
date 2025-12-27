@@ -1,11 +1,11 @@
 {
   "height": 43,
   "legend": {
-    "!": "000000ff",
-    "#": "d82800ff",
-    "$": "f478fcff",
-    "%": "fc9838ff",
-    "&": "fcfcfcff"
+    "!": "000000",
+    "#": "d82800",
+    "$": "f478fc",
+    "%": "fc9838",
+    "&": "fcfcfc"
   },
   "name": "mike-tyson-punchout-king-hippo",
   "pixels": [

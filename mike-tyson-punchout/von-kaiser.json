@@ -1,11 +1,11 @@
 {
   "height": 44,
   "legend": {
-    "!": "000000ff",
-    "#": "7c0800ff",
-    "$": "d82800ff",
-    "%": "fcbcb0ff",
-    "&": "fcfcfcff"
+    "!": "000000",
+    "#": "7c0800",
+    "$": "d82800",
+    "%": "fcbcb0",
+    "&": "fcfcfc"
   },
   "name": "mike-tyson-punchout-von-kaiser",
   "pixels": [

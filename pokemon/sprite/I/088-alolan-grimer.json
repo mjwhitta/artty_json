@@ -1,16 +1,16 @@
 {
   "height": 9,
   "legend": {
-    "!": "313131ff",
-    "#": "4a7b41ff",
-    "$": "525252ff",
-    "%": "739c6aff",
-    "&": "739cdeff",
-    "'": "8bb48bff",
-    "(": "a4cda4ff",
-    ")": "d5c541ff",
-    "*": "ffee41ff",
-    "+": "ffffffff"
+    "!": "313131",
+    "#": "4a7b41",
+    "$": "525252",
+    "%": "739c6a",
+    "&": "739cde",
+    "'": "8bb48b",
+    "(": "a4cda4",
+    ")": "d5c541",
+    "*": "ffee41",
+    "+": "ffffff"
   },
   "name": "pokemon-sprite-I-088-alolan-grimer",
   "pixels": [

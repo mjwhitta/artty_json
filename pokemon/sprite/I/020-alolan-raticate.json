@@ -1,15 +1,15 @@
 {
   "height": 11,
   "legend": {
-    "!": "313131ff",
-    "#": "4a4a4aff",
-    "$": "5a5a5aff",
-    "%": "737373ff",
-    "&": "946a5aff",
-    "'": "bd4a4aff",
-    "(": "bda483ff",
-    ")": "eedebdff",
-    "*": "ffffffff"
+    "!": "313131",
+    "#": "4a4a4a",
+    "$": "5a5a5a",
+    "%": "737373",
+    "&": "946a5a",
+    "'": "bd4a4a",
+    "(": "bda483",
+    ")": "eedebd",
+    "*": "ffffff"
   },
   "name": "pokemon-sprite-I-020-alolan-raticate",
   "pixels": [

@@ -1,11 +1,11 @@
 {
   "height": 55,
   "legend": {
-    "!": "000000ff",
-    "#": "bcbcbcff",
-    "$": "d82800ff",
-    "%": "fc9838ff",
-    "&": "fcfcfcff"
+    "!": "000000",
+    "#": "bcbcbc",
+    "$": "d82800",
+    "%": "fc9838",
+    "&": "fcfcfc"
   },
   "name": "mike-tyson-punchout-piston-honda",
   "pixels": [

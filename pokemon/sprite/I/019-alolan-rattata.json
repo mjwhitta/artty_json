@@ -1,15 +1,15 @@
 {
   "height": 11,
   "legend": {
-    "!": "202020ff",
-    "#": "4a4a4aff",
-    "$": "5a5a62ff",
-    "%": "7b7b7bff",
-    "&": "aca483ff",
-    "'": "bdbdb4ff",
-    "(": "d5c59cff",
-    ")": "f66252ff",
-    "*": "ffffffff"
+    "!": "202020",
+    "#": "4a4a4a",
+    "$": "5a5a62",
+    "%": "7b7b7b",
+    "&": "aca483",
+    "'": "bdbdb4",
+    "(": "d5c59c",
+    ")": "f66252",
+    "*": "ffffff"
   },
   "name": "pokemon-sprite-I-019-alolan-rattata",
   "pixels": [

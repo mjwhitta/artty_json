@@ -1,15 +1,15 @@
 {
   "height": 12,
   "legend": {
-    "!": "000000ff",
-    "#": "181818ff",
-    "$": "3e1f09ff",
-    "%": "572d0dff",
-    "&": "961d72ff",
-    "'": "c3c3c3ff",
-    "(": "c82697ff",
-    ")": "efbd10ff",
-    "*": "fefcfcff"
+    "!": "000000",
+    "#": "181818",
+    "$": "3e1f09",
+    "%": "572d0d",
+    "&": "961d72",
+    "'": "c3c3c3",
+    "(": "c82697",
+    ")": "efbd10",
+    "*": "fefcfc"
   },
   "name": "teenage-mutant-ninja-turtles-splinter",
   "pixels": [

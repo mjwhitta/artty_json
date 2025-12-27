@@ -1,14 +1,14 @@
 {
   "height": 28,
   "legend": {
-    "!": "008400ff",
-    "#": "333333ff",
-    "$": "bfbfbfff",
-    "%": "d8d8d8ff",
-    "&": "f2f2f2ff",
-    "'": "f3c598ff",
-    "(": "ff3300ff",
-    ")": "ffc600ff"
+    "!": "008400",
+    "#": "333333",
+    "$": "bfbfbf",
+    "%": "d8d8d8",
+    "&": "f2f2f2",
+    "'": "f3c598",
+    "(": "ff3300",
+    ")": "ffc600"
   },
   "name": "dragon-ball-tien-ki-charge",
   "pixels": [

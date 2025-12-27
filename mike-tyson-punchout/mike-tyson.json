@@ -1,11 +1,11 @@
 {
   "height": 55,
   "legend": {
-    "!": "000000ff",
-    "#": "005000ff",
-    "$": "c84c0cff",
-    "%": "d82800ff",
-    "&": "fcfcfcff"
+    "!": "000000",
+    "#": "005000",
+    "$": "c84c0c",
+    "%": "d82800",
+    "&": "fcfcfc"
   },
   "name": "mike-tyson-punchout-mike-tyson",
   "pixels": [

@@ -1,8 +1,8 @@
 {
   "height": 14,
   "legend": {
-    "!": "010101ff",
-    "#": "ff0000ff"
+    "!": "010101",
+    "#": "ff0000"
   },
   "name": "marvel-hydra-logo",
   "pixels": [

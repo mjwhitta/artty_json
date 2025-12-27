@@ -1,14 +1,14 @@
 {
   "height": 22,
   "legend": {
-    "!": "333333ff",
-    "#": "c36a30ff",
-    "$": "c800f8ff",
-    "%": "eb9affff",
-    "&": "f2f2f2ff",
-    "'": "ff3300ff",
-    "(": "ff96acff",
-    ")": "ffe5ffff"
+    "!": "333333",
+    "#": "c36a30",
+    "$": "c800f8",
+    "%": "eb9aff",
+    "&": "f2f2f2",
+    "'": "ff3300",
+    "(": "ff96ac",
+    ")": "ffe5ff"
   },
   "name": "dragon-ball-frieza-second-form",
   "pixels": [

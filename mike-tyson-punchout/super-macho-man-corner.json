@@ -1,11 +1,11 @@
 {
   "height": 32,
   "legend": {
-    "!": "000000ff",
-    "#": "747474ff",
-    "$": "fc7460ff",
-    "%": "fcbcb0ff",
-    "&": "fcfcfcff"
+    "!": "000000",
+    "#": "747474",
+    "$": "fc7460",
+    "%": "fcbcb0",
+    "&": "fcfcfc"
   },
   "name": "mike-tyson-punchout-super-macho-man-corner",
   "pixels": [

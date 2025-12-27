@@ -1,12 +1,12 @@
 {
   "height": 31,
   "legend": {
-    "!": "000000ff",
-    "#": "7c0800ff",
-    "$": "d82800ff",
-    "%": "fc9838ff",
-    "&": "fcc4d8ff",
-    "'": "fcfcfcff"
+    "!": "000000",
+    "#": "7c0800",
+    "$": "d82800",
+    "%": "fc9838",
+    "&": "fcc4d8",
+    "'": "fcfcfc"
   },
   "name": "mike-tyson-punchout-glass-joe-corner",
   "pixels": [

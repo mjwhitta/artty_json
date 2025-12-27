@@ -1,14 +1,14 @@
 {
   "height": 11,
   "legend": {
-    "!": "000000ff",
-    "#": "282828ff",
-    "$": "b5b5b5ff",
-    "%": "e579deff",
-    "&": "e5e5e5ff",
-    "'": "ef7fe8ff",
-    "(": "ff87f7ff",
-    ")": "ffffffff"
+    "!": "000000",
+    "#": "282828",
+    "$": "b5b5b5",
+    "%": "e579de",
+    "&": "e5e5e5",
+    "'": "ef7fe8",
+    "(": "ff87f7",
+    ")": "ffffff"
   },
   "name": "power-rangers-pink",
   "pixels": [

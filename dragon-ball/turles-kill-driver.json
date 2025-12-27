@@ -1,14 +1,14 @@
 {
   "height": 24,
   "legend": {
-    "!": "333333ff",
-    "#": "61628aff",
-    "$": "cca681ff",
-    "%": "f2f2f2ff",
-    "&": "ff730aff",
-    "'": "ffa873ff",
-    "(": "ffc600ff",
-    ")": "ffdca8ff"
+    "!": "333333",
+    "#": "61628a",
+    "$": "cca681",
+    "%": "f2f2f2",
+    "&": "ff730a",
+    "'": "ffa873",
+    "(": "ffc600",
+    ")": "ffdca8"
   },
   "name": "dragon-ball-turles-kill-driver",
   "pixels": [

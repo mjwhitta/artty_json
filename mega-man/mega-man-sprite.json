@@ -1,11 +1,11 @@
 {
   "height": 12,
   "legend": {
-    "!": "0087ffff",
-    "#": "00d7ffff",
-    "$": "080808ff",
-    "%": "eeeeeeff",
-    "&": "ffd7afff"
+    "!": "0087ff",
+    "#": "00d7ff",
+    "$": "080808",
+    "%": "eeeeee",
+    "&": "ffd7af"
   },
   "name": "mega-man-mega-man-sprite",
   "pixels": [

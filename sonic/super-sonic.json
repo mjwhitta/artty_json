@@ -1,11 +1,11 @@
 {
   "height": 14,
   "legend": {
-    "!": "080808ff",
-    "#": "d7ff00ff",
-    "$": "eeeeeeff",
-    "%": "ff0000ff",
-    "&": "ffd7afff"
+    "!": "080808",
+    "#": "d7ff00",
+    "$": "eeeeee",
+    "%": "ff0000",
+    "&": "ffd7af"
   },
   "name": "sonic-super-sonic",
   "pixels": [

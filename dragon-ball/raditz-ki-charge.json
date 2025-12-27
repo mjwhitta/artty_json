@@ -1,14 +1,14 @@
 {
   "height": 28,
   "legend": {
-    "!": "333333ff",
-    "#": "424242ff",
-    "$": "632d13ff",
-    "%": "8d4c2eff",
-    "&": "bfbfbfff",
-    "'": "d8d8d8ff",
-    "(": "f2f2f2ff",
-    ")": "f6c77fff"
+    "!": "333333",
+    "#": "424242",
+    "$": "632d13",
+    "%": "8d4c2e",
+    "&": "bfbfbf",
+    "'": "d8d8d8",
+    "(": "f2f2f2",
+    ")": "f6c77f"
   },
   "name": "dragon-ball-raditz-ki-charge",
   "pixels": [

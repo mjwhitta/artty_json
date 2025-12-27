@@ -1,14 +1,14 @@
 {
   "height": 11,
   "legend": {
-    "!": "313131ff",
-    "#": "4a7bb4ff",
-    "$": "525252ff",
-    "%": "5a7bbdff",
-    "&": "94cdc5ff",
-    "'": "bdd5eeff",
-    "(": "c5c5c5ff",
-    ")": "ffffffff"
+    "!": "313131",
+    "#": "4a7bb4",
+    "$": "525252",
+    "%": "5a7bbd",
+    "&": "94cdc5",
+    "'": "bdd5ee",
+    "(": "c5c5c5",
+    ")": "ffffff"
   },
   "name": "pokemon-sprite-I-037-alolan-vulpix",
   "pixels": [

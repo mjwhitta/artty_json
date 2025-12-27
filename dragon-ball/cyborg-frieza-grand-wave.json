@@ -1,16 +1,16 @@
 {
   "height": 22,
   "legend": {
-    "!": "333333ff",
-    "#": "99ccffff",
-    "$": "c5753aff",
-    "%": "c800f8ff",
-    "&": "c9c3e9ff",
-    "'": "f2f2f2ff",
-    "(": "ff3300ff",
-    ")": "ffc600ff",
-    "*": "ffe242ff",
-    "+": "fffabcff"
+    "!": "333333",
+    "#": "99ccff",
+    "$": "c5753a",
+    "%": "c800f8",
+    "&": "c9c3e9",
+    "'": "f2f2f2",
+    "(": "ff3300",
+    ")": "ffc600",
+    "*": "ffe242",
+    "+": "fffabc"
   },
   "name": "dragon-ball-cyborg-frieza-grand-wave",
   "pixels": [

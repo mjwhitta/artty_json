@@ -1,17 +1,17 @@
 {
   "height": 28,
   "legend": {
-    "!": "333333ff",
-    "#": "5b0088ff",
-    "$": "9933ccff",
-    "%": "eb1bd1ff",
-    "&": "f2f2f2ff",
-    "'": "ff60ffff",
-    "(": "ffa6ffff",
-    ")": "ffb8d9ff",
-    "*": "ffc600ff",
-    "+": "ffe1efff",
-    ",": "fffabcff"
+    "!": "333333",
+    "#": "5b0088",
+    "$": "9933cc",
+    "%": "eb1bd1",
+    "&": "f2f2f2",
+    "'": "ff60ff",
+    "(": "ffa6ff",
+    ")": "ffb8d9",
+    "*": "ffc600",
+    "+": "ffe1ef",
+    ",": "fffabc"
   },
   "name": "dragon-ball-majin-buu-sweet-beam",
   "pixels": [

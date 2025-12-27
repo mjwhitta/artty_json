@@ -1,19 +1,19 @@
 {
   "height": 32,
   "legend": {
-    "!": "333333ff",
-    "#": "76582cff",
-    "$": "9933ccff",
-    "%": "a57f47ff",
-    "&": "bd7cdfff",
-    "'": "bfbfbfff",
-    "(": "d8d8d8ff",
-    ")": "e0aae0ff",
-    "*": "e2a060ff",
-    "+": "f2f2f2ff",
-    ",": "f6d4b2ff",
-    "-": "ff6600ff",
-    ".": "ffa970ff"
+    "!": "333333",
+    "#": "76582c",
+    "$": "9933cc",
+    "%": "a57f47",
+    "&": "bd7cdf",
+    "'": "bfbfbf",
+    "(": "d8d8d8",
+    ")": "e0aae0",
+    "*": "e2a060",
+    "+": "f2f2f2",
+    ",": "f6d4b2",
+    "-": "ff6600",
+    ".": "ffa970"
   },
   "name": "dragon-ball-recoome-eraser-gun",
   "pixels": [

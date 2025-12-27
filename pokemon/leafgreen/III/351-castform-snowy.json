@@ -1,19 +1,19 @@
 {
   "height": 26,
   "legend": {
-    "!": "171717ff",
-    "#": "2c503bff",
-    "$": "4d504dff",
-    "%": "52716cff",
-    "&": "624b74ff",
-    "'": "76a28eff",
-    "(": "7e52bcff",
-    ")": "8e74d6ff",
-    "*": "8ecbafff",
-    "+": "a09dc6ff",
-    ",": "bfe3e8ff",
-    "-": "c6b2ffff",
-    ".": "fffaffff"
+    "!": "171717",
+    "#": "2c503b",
+    "$": "4d504d",
+    "%": "52716c",
+    "&": "624b74",
+    "'": "76a28e",
+    "(": "7e52bc",
+    ")": "8e74d6",
+    "*": "8ecbaf",
+    "+": "a09dc6",
+    ",": "bfe3e8",
+    "-": "c6b2ff",
+    ".": "fffaff"
   },
   "name": "pokemon-leafgreen-III-351-castform-snowy",
   "pixels": [

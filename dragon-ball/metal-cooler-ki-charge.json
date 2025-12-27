@@ -1,15 +1,15 @@
 {
   "height": 28,
   "legend": {
-    "!": "0066ffff",
-    "#": "333333ff",
-    "$": "6699ffff",
-    "%": "99ccffff",
-    "&": "a1c8e3ff",
-    "'": "c9c3e9ff",
-    "(": "d1e9faff",
-    ")": "f2f2f2ff",
-    "*": "ff3300ff"
+    "!": "0066ff",
+    "#": "333333",
+    "$": "6699ff",
+    "%": "99ccff",
+    "&": "a1c8e3",
+    "'": "c9c3e9",
+    "(": "d1e9fa",
+    ")": "f2f2f2",
+    "*": "ff3300"
   },
   "name": "dragon-ball-metal-cooler-ki-charge",
   "pixels": [

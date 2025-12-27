@@ -1,19 +1,19 @@
 {
   "height": 23,
   "legend": {
-    "!": "000000ff",
-    "#": "63386bff",
-    "$": "94495aff",
-    "%": "9459adff",
-    "&": "ad69d6ff",
-    "'": "ce71ffff",
-    "(": "cebaadff",
-    ")": "d66194ff",
-    "*": "e7dbd6ff",
-    "+": "ef82adff",
-    ",": "f7aabdff",
-    "-": "ffcbceff",
-    ".": "fffbffff"
+    "!": "000000",
+    "#": "63386b",
+    "$": "94495a",
+    "%": "9459ad",
+    "&": "ad69d6",
+    "'": "ce71ff",
+    "(": "cebaad",
+    ")": "d66194",
+    "*": "e7dbd6",
+    "+": "ef82ad",
+    ",": "f7aabd",
+    "-": "ffcbce",
+    ".": "fffbff"
   },
   "name": "pokemon-leafgreen-III-368-gorebyss",
   "pixels": [

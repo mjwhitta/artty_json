@@ -1,16 +1,16 @@
 {
   "height": 22,
   "legend": {
-    "!": "101010ff",
-    "#": "396321ff",
-    "$": "5a9431ff",
-    "%": "6b6b7bff",
-    "&": "7bb54aff",
-    "'": "a5de6bff",
-    "(": "bdf77bff",
-    ")": "efde7bff",
-    "*": "fff7a5ff",
-    "+": "ffffffff"
+    "!": "101010",
+    "#": "396321",
+    "$": "5a9431",
+    "%": "6b6b7b",
+    "&": "7bb54a",
+    "'": "a5de6b",
+    "(": "bdf77b",
+    ")": "efde7b",
+    "*": "fff7a5",
+    "+": "ffffff"
   },
   "name": "pokemon-leafgreen-II-216-teddiursa-shiny",
   "pixels": [

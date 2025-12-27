@@ -1,10 +1,10 @@
 {
   "height": 24,
   "legend": {
-    "!": "000000ff",
-    "#": "d82800ff",
-    "$": "fcbcb0ff",
-    "%": "fcfcfcff"
+    "!": "000000",
+    "#": "d82800",
+    "$": "fcbcb0",
+    "%": "fcfcfc"
   },
   "name": "mike-tyson-punchout-referee-mario",
   "pixels": [

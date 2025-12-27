@@ -1,15 +1,15 @@
 {
   "height": 28,
   "legend": {
-    "!": "00cc00ff",
-    "#": "333333ff",
-    "$": "666666ff",
-    "%": "cc9900ff",
-    "&": "f2f2f2ff",
-    "'": "ffb8d9ff",
-    "(": "ffc600ff",
-    ")": "ffe242ff",
-    "*": "fffabcff"
+    "!": "00cc00",
+    "#": "333333",
+    "$": "666666",
+    "%": "cc9900",
+    "&": "f2f2f2",
+    "'": "ffb8d9",
+    "(": "ffc600",
+    ")": "ffe242",
+    "*": "fffabc"
   },
   "name": "dragon-ball-perfect-cell-ki-charge",
   "pixels": [

@@ -1,12 +1,12 @@
 {
   "height": 30,
   "legend": {
-    "!": "000000ff",
-    "#": "402c00ff",
-    "$": "bc00bcff",
-    "%": "c84c0cff",
-    "&": "fc7460ff",
-    "'": "fcfcfcff"
+    "!": "000000",
+    "#": "402c00",
+    "$": "bc00bc",
+    "%": "c84c0c",
+    "&": "fc7460",
+    "'": "fcfcfc"
   },
   "name": "mike-tyson-punchout-von-kaiser-corner",
   "pixels": [

@@ -1,13 +1,13 @@
 {
   "height": 11,
   "legend": {
-    "!": "000000ff",
-    "#": "2b2b2bff",
-    "$": "424242ff",
-    "%": "b5b5b5ff",
-    "&": "e2d27fff",
-    "'": "f7dd36ff",
-    "(": "ffffffff"
+    "!": "000000",
+    "#": "2b2b2b",
+    "$": "424242",
+    "%": "b5b5b5",
+    "&": "e2d27f",
+    "'": "f7dd36",
+    "(": "ffffff"
   },
   "name": "power-rangers-yellow",
   "pixels": [

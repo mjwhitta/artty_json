@@ -1,10 +1,10 @@
 {
   "height": 32,
   "legend": {
-    "!": "000000ff",
-    "#": "887000ff",
-    "$": "fc9838ff",
-    "%": "fcfcfcff"
+    "!": "000000",
+    "#": "887000",
+    "$": "fc9838",
+    "%": "fcfcfc"
   },
   "name": "mike-tyson-punchout-bald-bull-corner",
   "pixels": [

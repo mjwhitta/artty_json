@@ -1,19 +1,19 @@
 {
   "height": 24,
   "legend": {
-    "!": "171717ff",
-    "#": "5a5a55ff",
-    "$": "62342cff",
-    "%": "935d46ff",
-    "&": "ce5d4dff",
-    "'": "d6814dff",
-    "(": "d6cee8ff",
-    ")": "e8d66fff",
-    "*": "f0794dff",
-    "+": "ff9843ff",
-    ",": "ff9b62ff",
-    "-": "fff26cff",
-    ".": "fffaffff"
+    "!": "171717",
+    "#": "5a5a55",
+    "$": "62342c",
+    "%": "935d46",
+    "&": "ce5d4d",
+    "'": "d6814d",
+    "(": "d6cee8",
+    ")": "e8d66f",
+    "*": "f0794d",
+    "+": "ff9843",
+    ",": "ff9b62",
+    "-": "fff26c",
+    ".": "fffaff"
   },
   "name": "pokemon-leafgreen-III-351-castform-sunny",
   "pixels": [

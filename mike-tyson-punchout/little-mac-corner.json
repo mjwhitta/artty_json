@@ -1,12 +1,12 @@
 {
   "height": 31,
   "legend": {
-    "!": "000000ff",
-    "#": "7c0800ff",
-    "$": "c84c0cff",
-    "%": "d82800ff",
-    "&": "fcbcb0ff",
-    "'": "fcfcfcff"
+    "!": "000000",
+    "#": "7c0800",
+    "$": "c84c0c",
+    "%": "d82800",
+    "&": "fcbcb0",
+    "'": "fcfcfc"
   },
   "name": "mike-tyson-punchout-little-mac-corner",
   "pixels": [

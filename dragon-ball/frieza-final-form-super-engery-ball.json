@@ -1,14 +1,14 @@
 {
   "height": 53,
   "legend": {
-    "!": "333333ff",
-    "#": "bfbfbfff",
-    "$": "c800f8ff",
-    "%": "cc2900ff",
-    "&": "eb9affff",
-    "'": "f2f2f2ff",
-    "(": "ff3300ff",
-    ")": "ff8d8dff"
+    "!": "333333",
+    "#": "bfbfbf",
+    "$": "c800f8",
+    "%": "cc2900",
+    "&": "eb9aff",
+    "'": "f2f2f2",
+    "(": "ff3300",
+    ")": "ff8d8d"
   },
   "name": "dragon-ball-frieza-final-form-super-engery-ball",
   "pixels": [

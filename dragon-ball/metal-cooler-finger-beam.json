@@ -1,18 +1,18 @@
 {
   "height": 20,
   "legend": {
-    "!": "0066ffff",
-    "#": "333333ff",
-    "$": "6699ffff",
-    "%": "77a4c3ff",
-    "&": "99ccffff",
-    "'": "9b93c8ff",
-    "(": "a1c8e3ff",
-    ")": "c9c3e9ff",
-    "*": "d1e9faff",
-    "+": "f2f2f2ff",
-    ",": "f8f8f8ff",
-    "-": "ff3300ff"
+    "!": "0066ff",
+    "#": "333333",
+    "$": "6699ff",
+    "%": "77a4c3",
+    "&": "99ccff",
+    "'": "9b93c8",
+    "(": "a1c8e3",
+    ")": "c9c3e9",
+    "*": "d1e9fa",
+    "+": "f2f2f2",
+    ",": "f8f8f8",
+    "-": "ff3300"
   },
   "name": "dragon-ball-metal-cooler-finger-beam",
   "pixels": [

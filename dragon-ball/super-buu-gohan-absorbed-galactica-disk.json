@@ -1,18 +1,18 @@
 {
   "height": 35,
   "legend": {
-    "!": "333333ff",
-    "#": "666666ff",
-    "$": "bfbfbfff",
-    "%": "e370a5ff",
-    "&": "f2f2f2ff",
-    "'": "ff3300ff",
-    "(": "ff6600ff",
-    ")": "ff9966ff",
-    "*": "ffb8d9ff",
-    "+": "ffc600ff",
-    ",": "ffe242ff",
-    "-": "fffabcff"
+    "!": "333333",
+    "#": "666666",
+    "$": "bfbfbf",
+    "%": "e370a5",
+    "&": "f2f2f2",
+    "'": "ff3300",
+    "(": "ff6600",
+    ")": "ff9966",
+    "*": "ffb8d9",
+    "+": "ffc600",
+    ",": "ffe242",
+    "-": "fffabc"
   },
   "name": "dragon-ball-super-buu-gohan-absorbed-galactica-disk",
   "pixels": [

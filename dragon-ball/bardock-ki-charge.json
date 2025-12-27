@@ -1,14 +1,14 @@
 {
   "height": 28,
   "legend": {
-    "!": "333333ff",
-    "#": "60880eff",
-    "$": "666666ff",
-    "%": "bfbfbfff",
-    "&": "cc2900ff",
-    "'": "d8d8d8ff",
-    "(": "f2f2f2ff",
-    ")": "f6c77fff"
+    "!": "333333",
+    "#": "60880e",
+    "$": "666666",
+    "%": "bfbfbf",
+    "&": "cc2900",
+    "'": "d8d8d8",
+    "(": "f2f2f2",
+    ")": "f6c77f"
   },
   "name": "dragon-ball-bardock-ki-charge",
   "pixels": [

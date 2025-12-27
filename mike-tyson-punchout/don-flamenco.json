@@ -1,12 +1,12 @@
 {
   "height": 56,
   "legend": {
-    "!": "000000ff",
-    "#": "00a800ff",
-    "$": "5c94fcff",
-    "%": "d82800ff",
-    "&": "fc7460ff",
-    "'": "fcfcfcff"
+    "!": "000000",
+    "#": "00a800",
+    "$": "5c94fc",
+    "%": "d82800",
+    "&": "fc7460",
+    "'": "fcfcfc"
   },
   "name": "mike-tyson-punchout-don-flamenco",
   "pixels": [

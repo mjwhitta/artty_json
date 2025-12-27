@@ -1,14 +1,14 @@
 {
   "height": 15,
   "legend": {
-    "!": "000000ff",
-    "#": "0073f7ff",
-    "$": "00ffffff",
-    "%": "203080ff",
-    "&": "e41b1eff",
-    "'": "f7f7f7ff",
-    "(": "f8c000ff",
-    ")": "fbd8a8ff"
+    "!": "000000",
+    "#": "0073f7",
+    "$": "00ffff",
+    "%": "203080",
+    "&": "e41b1e",
+    "'": "f7f7f7",
+    "(": "f8c000",
+    ")": "fbd8a8"
   },
   "name": "mega-man-battle-network-megaman.EXE-sprite",
   "pixels": [

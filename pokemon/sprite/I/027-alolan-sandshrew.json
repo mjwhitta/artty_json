@@ -1,16 +1,16 @@
 {
   "height": 9,
   "legend": {
-    "!": "313131ff",
-    "#": "314183ff",
-    "$": "525252ff",
-    "%": "7b7b7bff",
-    "&": "7b94acff",
-    "'": "bdbdb4ff",
-    "(": "c5e6f6ff",
-    ")": "cdc59cff",
-    "*": "ffeeb4ff",
-    "+": "ffffffff"
+    "!": "313131",
+    "#": "314183",
+    "$": "525252",
+    "%": "7b7b7b",
+    "&": "7b94ac",
+    "'": "bdbdb4",
+    "(": "c5e6f6",
+    ")": "cdc59c",
+    "*": "ffeeb4",
+    "+": "ffffff"
   },
   "name": "pokemon-sprite-I-027-alolan-sandshrew",
   "pixels": [

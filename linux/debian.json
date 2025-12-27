@@ -1,8 +1,8 @@
 {
   "height": 25,
   "legend": {
-    "!": "000000ff",
-    "#": "d70751ff"
+    "!": "000000",
+    "#": "d70751"
   },
   "name": "linux-debian",
   "pixels": [

@@ -1,12 +1,12 @@
 {
   "height": 20,
   "legend": {
-    "!": "333333ff",
-    "#": "5b0088ff",
-    "$": "9933ccff",
-    "%": "f2f2f2ff",
-    "&": "ffb8d9ff",
-    "'": "ffc600ff"
+    "!": "333333",
+    "#": "5b0088",
+    "$": "9933cc",
+    "%": "f2f2f2",
+    "&": "ffb8d9",
+    "'": "ffc600"
   },
   "name": "dragon-ball-majin-buu",
   "pixels": [

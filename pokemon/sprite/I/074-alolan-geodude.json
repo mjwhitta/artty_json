@@ -1,13 +1,13 @@
 {
   "height": 8,
   "legend": {
-    "!": "313131ff",
-    "#": "41414aff",
-    "$": "525252ff",
-    "%": "6a6a6aff",
-    "&": "7b8383ff",
-    "'": "a4acbdff",
-    "(": "ffffffff"
+    "!": "313131",
+    "#": "41414a",
+    "$": "525252",
+    "%": "6a6a6a",
+    "&": "7b8383",
+    "'": "a4acbd",
+    "(": "ffffff"
   },
   "name": "pokemon-sprite-I-074-alolan-geodude",
   "pixels": [

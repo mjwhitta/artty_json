@@ -1,18 +1,18 @@
 {
   "height": 25,
   "legend": {
-    "!": "000000ff",
-    "#": "63184aff",
-    "$": "8c417bff",
-    "%": "b571adff",
-    "&": "bd6110ff",
-    "'": "e7a2deff",
-    "(": "e7aa00ff",
-    ")": "ef7939ff",
-    "*": "ffaa6bff",
-    "+": "ffd38cff",
-    ",": "ffdb29ff",
-    "-": "fff37bff"
+    "!": "000000",
+    "#": "63184a",
+    "$": "8c417b",
+    "%": "b571ad",
+    "&": "bd6110",
+    "'": "e7a2de",
+    "(": "e7aa00",
+    ")": "ef7939",
+    "*": "ffaa6b",
+    "+": "ffd38c",
+    ",": "ffdb29",
+    "-": "fff37b"
   },
   "name": "pokemon-leafgreen-III-345-lileep",
   "pixels": [

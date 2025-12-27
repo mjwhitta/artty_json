@@ -1,10 +1,10 @@
 {
   "height": 21,
   "legend": {
-    "!": "000000ff",
-    "#": "00005fff",
-    "$": "005fafff",
-    "%": "ffffffff"
+    "!": "000000",
+    "#": "00005f",
+    "$": "005faf",
+    "%": "ffffff"
   },
   "name": "linux-fedora",
   "pixels": [

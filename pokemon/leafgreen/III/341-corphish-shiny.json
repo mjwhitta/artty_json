@@ -1,18 +1,18 @@
 {
   "height": 21,
   "legend": {
-    "!": "000000ff",
-    "#": "8b2c2cff",
-    "$": "b44d4dff",
-    "%": "cececeff",
-    "&": "d66f6fff",
-    "'": "d69346ff",
-    "(": "ff9393ff",
-    ")": "ffbc5aff",
-    "*": "ffc6c6ff",
-    "+": "ffde93ff",
-    ",": "fffff0ff",
-    "-": "ffffffff"
+    "!": "000000",
+    "#": "8b2c2c",
+    "$": "b44d4d",
+    "%": "cecece",
+    "&": "d66f6f",
+    "'": "d69346",
+    "(": "ff9393",
+    ")": "ffbc5a",
+    "*": "ffc6c6",
+    "+": "ffde93",
+    ",": "fffff0",
+    "-": "ffffff"
   },
   "name": "pokemon-leafgreen-III-341-corphish-shiny",
   "pixels": [

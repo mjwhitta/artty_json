@@ -1,11 +1,11 @@
 {
   "height": 50,
   "legend": {
-    "!": "000000ff",
-    "#": "3cbcfcff",
-    "$": "d82800ff",
-    "%": "fcbcb0ff",
-    "&": "fcfcfcff"
+    "!": "000000",
+    "#": "3cbcfc",
+    "$": "d82800",
+    "%": "fcbcb0",
+    "&": "fcfcfc"
   },
   "name": "mike-tyson-punchout-little-mac",
   "pixels": [

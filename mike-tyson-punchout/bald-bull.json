@@ -1,11 +1,11 @@
 {
   "height": 60,
   "legend": {
-    "!": "000000ff",
-    "#": "9cfcf0ff",
-    "$": "d82800ff",
-    "%": "fc9838ff",
-    "&": "fcfcfcff"
+    "!": "000000",
+    "#": "9cfcf0",
+    "$": "d82800",
+    "%": "fc9838",
+    "&": "fcfcfc"
   },
   "name": "mike-tyson-punchout-bald-bull",
   "pixels": [

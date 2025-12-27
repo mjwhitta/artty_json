@@ -1,12 +1,12 @@
 {
   "height": 32,
   "legend": {
-    "!": "000000ff",
-    "#": "00a800ff",
-    "$": "c84c0cff",
-    "%": "fc7460ff",
-    "&": "fcbcb0ff",
-    "'": "fcfcfcff"
+    "!": "000000",
+    "#": "00a800",
+    "$": "c84c0c",
+    "%": "fc7460",
+    "&": "fcbcb0",
+    "'": "fcfcfc"
   },
   "name": "mike-tyson-punchout-soda-popinski-corner",
   "pixels": [

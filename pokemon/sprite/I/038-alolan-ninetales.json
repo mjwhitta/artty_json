@@ -1,15 +1,15 @@
 {
   "height": 13,
   "legend": {
-    "!": "313131ff",
-    "#": "4162c5ff",
-    "$": "525252ff",
-    "%": "628bc5ff",
-    "&": "7394c5ff",
-    "'": "a4d5eeff",
-    "(": "cde6ffff",
-    ")": "f6f6ffff",
-    "*": "ffffffff"
+    "!": "313131",
+    "#": "4162c5",
+    "$": "525252",
+    "%": "628bc5",
+    "&": "7394c5",
+    "'": "a4d5ee",
+    "(": "cde6ff",
+    ")": "f6f6ff",
+    "*": "ffffff"
   },
   "name": "pokemon-sprite-I-038-alolan-ninetales",
   "pixels": [

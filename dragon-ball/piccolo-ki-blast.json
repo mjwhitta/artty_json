@@ -1,17 +1,17 @@
 {
   "height": 19,
   "legend": {
-    "!": "0050c8ff",
-    "#": "2feb1cff",
-    "$": "333333ff",
-    "%": "9429dbff",
-    "&": "cc9900ff",
-    "'": "f2f2f2ff",
-    "(": "ff3300ff",
-    ")": "ffb8d9ff",
-    "*": "ffc600ff",
-    "+": "ffe242ff",
-    ",": "fffabcff"
+    "!": "0050c8",
+    "#": "2feb1c",
+    "$": "333333",
+    "%": "9429db",
+    "&": "cc9900",
+    "'": "f2f2f2",
+    "(": "ff3300",
+    ")": "ffb8d9",
+    "*": "ffc600",
+    "+": "ffe242",
+    ",": "fffabc"
   },
   "name": "dragon-ball-piccolo-ki-blast",
   "pixels": [

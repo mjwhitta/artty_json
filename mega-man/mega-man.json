@@ -1,12 +1,12 @@
 {
   "height": 19,
   "legend": {
-    "!": "0087ffff",
-    "#": "00d7ffff",
-    "$": "080808ff",
-    "%": "eeeeeeff",
-    "&": "ff0000ff",
-    "'": "ffd7afff"
+    "!": "0087ff",
+    "#": "00d7ff",
+    "$": "080808",
+    "%": "eeeeee",
+    "&": "ff0000",
+    "'": "ffd7af"
   },
   "name": "mega-man-mega-man",
   "pixels": [

@@ -1,17 +1,17 @@
 {
   "height": 12,
   "legend": {
-    "!": "313131ff",
-    "#": "31625aff",
-    "$": "4183acff",
-    "%": "525252ff",
-    "&": "5aa4e6ff",
-    "'": "73d5e6ff",
-    "(": "7b7b7bff",
-    ")": "83bddeff",
-    "*": "bdbdb4ff",
-    "+": "bde6f6ff",
-    ",": "ffffffff"
+    "!": "313131",
+    "#": "31625a",
+    "$": "4183ac",
+    "%": "525252",
+    "&": "5aa4e6",
+    "'": "73d5e6",
+    "(": "7b7b7b",
+    ")": "83bdde",
+    "*": "bdbdb4",
+    "+": "bde6f6",
+    ",": "ffffff"
   },
   "name": "pokemon-sprite-I-028-alolan-sandslash",
   "pixels": [

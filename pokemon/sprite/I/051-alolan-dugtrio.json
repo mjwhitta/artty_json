@@ -1,18 +1,18 @@
 {
   "height": 12,
   "legend": {
-    "!": "313131ff",
-    "#": "4a4a4aff",
-    "$": "5a5a5aff",
-    "%": "7b4a39ff",
-    "&": "838383ff",
-    "'": "9c6a41ff",
-    "(": "b4835aff",
-    ")": "c5bd5aff",
-    "*": "cd5a62ff",
-    "+": "f67b83ff",
-    ",": "fff6acff",
-    "-": "ffffffff"
+    "!": "313131",
+    "#": "4a4a4a",
+    "$": "5a5a5a",
+    "%": "7b4a39",
+    "&": "838383",
+    "'": "9c6a41",
+    "(": "b4835a",
+    ")": "c5bd5a",
+    "*": "cd5a62",
+    "+": "f67b83",
+    ",": "fff6ac",
+    "-": "ffffff"
   },
   "name": "pokemon-sprite-I-051-alolan-dugtrio",
   "pixels": [

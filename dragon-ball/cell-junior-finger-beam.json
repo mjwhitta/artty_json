@@ -1,19 +1,19 @@
 {
   "height": 20,
   "legend": {
-    "!": "0099ffff",
-    "#": "333333ff",
-    "$": "666666ff",
-    "%": "9933ccff",
-    "&": "99ccffff",
-    "'": "b200deff",
-    "(": "bd7cdfff",
-    ")": "bfbfbfff",
-    "*": "cc9900ff",
-    "+": "e0aae0ff",
-    ",": "f2f2f2ff",
-    "-": "ffb8d9ff",
-    ".": "ffc600ff"
+    "!": "0099ff",
+    "#": "333333",
+    "$": "666666",
+    "%": "9933cc",
+    "&": "99ccff",
+    "'": "b200de",
+    "(": "bd7cdf",
+    ")": "bfbfbf",
+    "*": "cc9900",
+    "+": "e0aae0",
+    ",": "f2f2f2",
+    "-": "ffb8d9",
+    ".": "ffc600"
   },
   "name": "dragon-ball-cell-junior-finger-beam",
   "pixels": [

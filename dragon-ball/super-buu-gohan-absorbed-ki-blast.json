@@ -1,16 +1,16 @@
 {
   "height": 20,
   "legend": {
-    "!": "333333ff",
-    "#": "666666ff",
-    "$": "eb1bd1ff",
-    "%": "f2f2f2ff",
-    "&": "ff3300ff",
-    "'": "ff60ffff",
-    "(": "ff6600ff",
-    ")": "ffa6ffff",
-    "*": "ffb8d9ff",
-    "+": "ffc600ff"
+    "!": "333333",
+    "#": "666666",
+    "$": "eb1bd1",
+    "%": "f2f2f2",
+    "&": "ff3300",
+    "'": "ff60ff",
+    "(": "ff6600",
+    ")": "ffa6ff",
+    "*": "ffb8d9",
+    "+": "ffc600"
   },
   "name": "dragon-ball-super-buu-gohan-absorbed-ki-blast",
   "pixels": [
