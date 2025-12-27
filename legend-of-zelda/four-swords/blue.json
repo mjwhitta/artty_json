@@ -1,10 +1,10 @@
 {
   "height": 16,
   "legend": {
-    "!": "008700",
+    "!": "005fd7",
     "#": "080808",
     "$": "262626",
-    "%": "5fd700",
+    "%": "5fafd7",
     "&": "875f00",
     "'": "8a8a8a",
     "(": "af8700",
@@ -14,7 +14,7 @@
     ",": "ffd787",
     "-": "ffd7d7"
   },
-  "name": "legend-of-zelda-link-green",
+  "name": "legend-of-zelda-four-swords-blue",
   "pixels": [
     "          #######                     ",
     "        ##%%%%%%###                   ",
