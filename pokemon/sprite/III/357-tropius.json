@@ -1,19 +1,19 @@
 {
   "height": 13,
   "legend": {
-    "!": "color_065",
-    "#": "color_071",
-    "$": "color_095",
-    "%": "color_137",
-    "&": "color_144",
-    "'": "color_179",
-    "(": "color_180",
-    ")": "color_221",
-    "*": "color_231",
-    "+": "color_236",
-    ",": "color_237",
-    "-": "color_239",
-    ".": "color_240"
+    "!": "color065",
+    "#": "color071",
+    "$": "color095",
+    "%": "color137",
+    "&": "color144",
+    "'": "color179",
+    "(": "color180",
+    ")": "color221",
+    "*": "color231",
+    "+": "color236",
+    ",": "color237",
+    "-": "color239",
+    ".": "color240"
   },
   "name": "pokemon-sprite-III-357-tropius",
   "pixels": [

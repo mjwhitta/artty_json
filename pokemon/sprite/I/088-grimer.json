@@ -1,19 +1,19 @@
 {
   "height": 9,
   "legend": {
-    "!": "color_060",
-    "#": "color_096",
-    "$": "color_102",
-    "%": "color_104",
-    "&": "color_146",
-    "'": "color_183",
-    "(": "color_189",
-    ")": "color_231",
-    "*": "color_236",
-    "+": "color_237",
-    ",": "color_239",
-    "-": "color_240",
-    ".": "color_245"
+    "!": "color060",
+    "#": "color096",
+    "$": "color102",
+    "%": "color104",
+    "&": "color146",
+    "'": "color183",
+    "(": "color189",
+    ")": "color231",
+    "*": "color236",
+    "+": "color237",
+    ",": "color239",
+    "-": "color240",
+    ".": "color245"
   },
   "name": "pokemon-sprite-I-088-grimer",
   "pixels": [

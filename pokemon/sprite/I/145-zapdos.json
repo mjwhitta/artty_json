@@ -1,17 +1,17 @@
 {
   "height": 10,
   "legend": {
-    "!": "color_059",
-    "#": "color_101",
-    "$": "color_143",
-    "%": "color_172",
-    "&": "color_179",
-    "'": "color_220",
-    "(": "color_231",
-    ")": "color_236",
-    "*": "color_237",
-    "+": "color_239",
-    ",": "color_240"
+    "!": "color059",
+    "#": "color101",
+    "$": "color143",
+    "%": "color172",
+    "&": "color179",
+    "'": "color220",
+    "(": "color231",
+    ")": "color236",
+    "*": "color237",
+    "+": "color239",
+    ",": "color240"
   },
   "name": "pokemon-sprite-I-145-zapdos",
   "pixels": [

@@ -1,19 +1,19 @@
 {
   "height": 11,
   "legend": {
-    "!": "color_065",
-    "#": "color_072",
-    "$": "color_095",
-    "%": "color_098",
-    "&": "color_115",
-    "'": "color_131",
-    "(": "color_167",
-    ")": "color_209",
-    "*": "color_231",
-    "+": "color_236",
-    ",": "color_237",
-    "-": "color_239",
-    ".": "color_240"
+    "!": "color065",
+    "#": "color072",
+    "$": "color095",
+    "%": "color098",
+    "&": "color115",
+    "'": "color131",
+    "(": "color167",
+    ")": "color209",
+    "*": "color231",
+    "+": "color236",
+    ",": "color237",
+    "-": "color239",
+    ".": "color240"
   },
   "name": "pokemon-sprite-III-386-deoxys",
   "pixels": [
